@@ -88,8 +88,11 @@ a:after {
 }
 
 .navbar-inverse {
-	background-color: #1abc9c;
-	border-color: #16a085;
+	/*background-color: #1abc9c;
+	border-color: #16a085;*/
+	background-color: yellow;
+	border-color: yellow;
+
 }
 
 .navbar-inverse .navbar-nav > li > a {
