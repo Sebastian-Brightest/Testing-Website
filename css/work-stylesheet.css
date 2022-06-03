@@ -26,7 +26,6 @@ h1 {
 
 
 
-/* Paragraph & Typographic */
 p {
     line-height: 28px;
     margin-bottom: 25px;
@@ -119,7 +118,6 @@ a:after {
 }
 
 
-/* Helpers */
 
 .mt {
 	margin-top: 40px;
@@ -174,7 +172,6 @@ a:after {
 
 
 
-/* Blog Date*/
 bd {
 	font-size: 12px;
 	text-transform: uppercase;
@@ -182,19 +179,16 @@ bd {
 	font-weight: 700;
 }
 
-/* Blog Author*/
 ba {
 	font-size: 12px;
 	text-transform: uppercase;
 }
 
-/* Blog Quote */
 .bq {
 	font-size: 22px;
 	padding-top: 30px;
 }
 
-/* Blog Tags */
 bt {
 	font-size: 12px;
 }
